@@ -1,5 +1,8 @@
 # titstxt.org/
 
-User-agent: *
+
+Changed this line to a new line.
+
+User - Robot, User-agent: *
 
 This file is read by robots.
